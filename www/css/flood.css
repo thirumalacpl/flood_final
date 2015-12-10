@@ -1,0 +1,1267 @@
+.span_1 {
+	  /*  font-size: 45px;
+	        font-family: "GillSans-Light","Gill Sans W01 Light",sans-serif;
+	            margin: .5em 0 1.5em 0;
+    padding: 0;
+    line-height: 1.25;*/
+
+   font-family: 'Open Sans', sans-serif;
+    margin: .5em 0 1.5em 0;
+    padding: 0;
+    font-weight: 800;
+      color: #373737 !important;
+          font-size: 1.384615385em;
+    
+  
+}
+
+.span_2 {
+font-size: 20px;
+   font-family: 'Open Sans', sans-serif;
+    margin: .5em 0 1.5em 0;
+    padding: 0;
+    font-weight: 400;
+      color: #555;
+}
+.em_1 {
+	    font-size: 18px;
+	font-family: 'Open Sans', sans-serif;
+	margin: .5em 0 1.5em 0;
+    padding: 0;
+    line-height: 1.25;
+    font-weight: normal;
+      color: #555;
+}
+
+.width_1 {
+	width: 5% !important;
+}
+.width_2 {
+	width: 90% !important;
+	text-transform: capitalize;
+	text-align: center;
+}
+.width_3 {
+	width: 5% !important;
+}
+
+.width_1_1 {
+	width: 5% !important;
+}
+.width_2_1 {
+	width: 90% !important;
+	text-transform: capitalize;
+	text-align: center;
+}
+.width_3_1 {
+	width: 5% !important;
+}
+
+.width_1_11 {
+	width: 15% !important;
+}
+.width_2_11 {
+	width: 70% !important;
+	text-transform: capitalize;
+	text-align: center;
+}
+.width_3_11 {
+	width: 15% !important;
+}
+
+.p_foot {
+	    font-size: 40px;
+}
+
+#global-nav {
+    position: relative;
+    height: 45px;
+    width: 100%;
+    display: block;
+    line-height: 57px;
+    /*font-size: 25px;*/
+    font-weight: normal;
+    color: #333;
+    text-indent: 33px;
+}
+
+.li_bot_1 {
+	    border-bottom: 2px dotted #353333 !important;
+}
+
+.ui-listview>li {
+    border-bottom: 0px solid rgba(255,255,255,0.1) ;
+}
+
+.img_new1 {
+	    width: 90% !important;
+    border-radius: 13px;
+    margin:0 auto;
+    margin-bottom: 2%;
+        margin-left: 5% !important;
+}
+
+.ui-panel-inner > .ui-listview {
+/*    margin: 85px -1em !important;*/
+ margin-top: 85px;
+
+}
+
+
+/*Align*/
+
+.align-jus{
+
+       text-align: -webkit-center;
+       color: #555;
+}
+
+.dotline{
+
+    text-align:center;border-bottom: 1px dashed rgba(0, 0, 0, .2); 
+    width: 15%;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+
+.clearboth{
+
+    height: 0px !important;
+}
+
+
+.space{
+
+        margin: .5em 0 1.5em 0 !important;
+}
+
+
+.headcolour{
+   font-family: 'Open Sans', sans-serif;
+    font-weight: normal !important;
+   
+}
+
+/*collapsible slide*/
+.ui-collapsible.ui-collapsible h3 a, .ui-collapsible.ui-collapsible-collapsed.ui-collapsible h3 a:hover {
+    font-weight: 500;
+    /*//background-color: rgba(0,0,0,0.1) !important;*/
+}
+.ui-collapsible.ui-collapsible-collapsed, .ui-page-theme-a .ui-body-inherit.ui-collapsible-content, .ui-collapsible.ui-collapsible-collapsed.ui-collapsible h3 a {
+    background-color: transparent !important;
+}
+.ui-collapsible-heading .ui-btn {
+    text-align: left;
+    margin: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+}
+.ui-btn, a.ui-btn {
+    text-transform: uppercase;
+    font-weight: 500;
+    color: inherit;
+}
+.ui-collapsible {
+    margin: 0 -1em;
+}
+.ui-collapsible.ui-collapsible h3 a, .ui-collapsible.ui-collapsible-collapsed.ui-collapsible h3 a:hover {
+    font-weight: 400;
+   /* background-color: rgba(0,0,0,0.1) !important;*/
+    font-size: 19px;
+  }
+
+.wwr{
+  padding: 25px!important;
+}
+
+@media screen and (min-width: 480px) and (max-width: 640px) {
+.videosize{
+  width:400px;
+  height:400px;
+}
+
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) { 
+.videosize{
+  width:750px;
+  height:500px;
+}
+}
+
+
+/*valunteer*/
+
+/*valunteer*/
+
+ 
+.val_fil {
+    border: 1px solid #ddd !important;
+    border-radius: 5px !important;
+    height: 40px !important;
+}
+.sub_last {
+    width: 5%;
+    margin: 0 auto;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) { 
+.videosize{
+  width:750px;
+  height:500px;
+}
+.sub_last1_1 {
+  width: 44% !important;
+}
+.sub_last1 {
+  width: 16% !important;
+}
+.sub_last2 {
+  width: 40% !important;
+}
+}
+
+/*dec33*/
+
+
+
+@media (min-width: 28em) {
+  .ui-rangeslider label:first-child {
+    display: block;
+    float: left;
+    width: 20%;
+  }
+}
+
+
+@media all and (min-width: 768px){
+  .showastabs.ui-listview {
+  
+  }
+  
+  .showastabs.ui-listview .ui-li.ui-btn,
+  .showastabs.ui-listview > li {
+      width: auto;
+      height: auto;
+    display: inline-block;
+    margin: auto;
+  }
+  .showastabs.ui-listview > li.ui-li-divider {
+    display: block;
+  }
+  
+  .showastabs.center {
+    text-align: center;
+  }
+  
+  .showastabs.nobg.ui-listview {
+    background: transparent !important;
+    border-bottom: 0px solid #FFFFFF !important;
+  }
+
+  .showastabs.ui-listview .ui-btn-inner.ui-li {
+    border-bottom: 0px;
+  }
+
+  .ui-grid-b.fixed,.ui-grid-a.fixed {
+    display: block;
+    position: fixed;
+    left: 0px;
+    top: 110px;
+    bottom: 0px;
+    width: 100%;
+    overflow: hidden;
+  }
+
+  .ui-grid-b .ui-block-a,.ui-grid-b .ui-block-b,.ui-grid-b .ui-block-c,.ui-grid-a .ui-block-a,.ui-grid-a .ui-block-b {
+    position: relative;
+  }
+  
+  .ui-grid-b.fixed .scroll-v,.ui-grid-a.fixed .scroll-v {
+    overflow: hidden;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+
+  }
+
+  .nativeDroidCards > li {
+    display: inline-block;
+    float: left;
+    margin: 1%;
+    width: 43%;
+  }
+  
+  .nativeDroidCards > li:nth-child(2n+1) {
+    clear: both;
+  }
+
+
+}
+
+
+
+
+/*
+ * Various GUI Elements 
+ * 
+ */
+
+@-webkit-keyframes slideImagesIn {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(.6,.6);
+  }
+  50% {
+    -webkit-transform: scale(1.6,1.6);
+  } 
+  100% {
+    opacity: 1;
+    -webkit-transform: scale(1.0,1.0);
+  }
+}
+
+
+@-moz-keyframes slideImagesIn {
+  0% {
+    opacity: 0;
+    -moz-transform: scale(.6,.6);
+  }
+  50% {
+    -moz-transform: scale(1.6,1.6);
+  } 
+  100% {
+    opacity: 1;
+    -moz-transform: scale(1.0,1.0);
+  }
+}
+
+@-webkit-keyframes slideFromLeft {
+  0% {
+    left: -100%;
+    -webkit-transform: scale(0.3,0.3) rotateY(-45deg);
+  }
+  100% {
+    left: 0px;
+    -webkit-transform: scale(1,1) rotateY(0deg);
+  }
+}
+
+
+@-webkit-keyframes slideFromRight {
+  0% {
+    left: 100%;
+    -webkit-transform: scale(0.3,0.3) rotateY(45deg);
+  }
+  100% {
+    left: 0px;
+    -webkit-transform: scale(1,1) rotateY(0deg);
+  }
+}
+
+
+@-moz-keyframes slideFromLeft {
+  0% {
+    left: -100%;
+    -moz-transform: scale(0.3,0.3) rotateY(-45deg);
+  }
+  100% {
+    left: 0px;
+    -moz-transform: scale(1,1) rotateY(0deg);
+  }
+}
+
+
+@-moz-keyframes slideFromRight {
+  0% {
+    left: 100%;
+    -moz-transform: scale(0.3,0.3) rotateY(45deg);
+  }
+  100% {
+    left: 0px;
+    -moz-transform: scale(1,1) rotateY(0deg);
+  }
+}
+
+
+@keyframes slideFromLeft {
+  0% {
+    left: -100%;
+    -webkit-transform: scale(0.3,0.3) rotateY(-45deg);
+    -moz-transform: scale(0.3,0.3) rotateY(-45deg);
+    -o-transform: scale(0.3,0.3) rotateY(-45deg);
+    -ms-transform: scale(0.3,0.3) rotateY(-45deg);
+    transform: scale(0.3,0.3) rotateY(-45deg);
+  }
+  100% {
+    left: 0px;
+    -webkit-transform: scale(1,1) rotateY(0deg);
+    -moz-transform: scale(1,1) rotateY(0deg);
+    -o-transform: scale(1,1) rotateY(0deg);
+    -ms-transform: scale(1,1) rotateY(0deg);
+    transform: scale(1,1) rotateY(0deg);
+  }
+}
+
+
+@keyframes slideFromRight {
+  0% {
+    left: 100%;
+    -webkit-transform: scale(0.3,0.3) rotateY(45deg);
+    -moz-transform: scale(0.3,0.3) rotateY(45deg);
+    -o-transform: scale(0.3,0.3) rotateY(45deg);
+    -ms-transform: scale(0.3,0.3) rotateY(45deg);
+    transform: scale(0.3,0.3) rotateY(45deg);
+  }
+  100% {
+    left: 0px;
+    -webkit-transform: scale(1,1) rotateY(0deg);
+    -moz-transform: scale(1,1) rotateY(0deg);
+    -o-transform: scale(1,1) rotateY(0deg);
+    -ms-transform: scale(1,1) rotateY(0deg);
+    transform: scale(1,1) rotateY(0deg);
+  }
+}
+
+.delayedFadeIn {
+  overflow: hidden;
+  position: relative;
+  perspective: 500;
+  -webkit-perspective: 500;
+}
+
+.delayedFadeIn li {
+  opacity: 1;
+  overflow: hidden;
+  top: 0px;
+  left: 0px;
+  position: relative;
+  -webkit-animation: slideFromLeft 1s 1;
+  -moz-animation: slideFromLeft 1s 1;
+  animation: slideFromLeft 1s 1;
+}
+
+
+progress {
+  height: 2px;
+  width: 100%;
+  margin: 3px 0px 3px 0px;
+  display: block;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  border: none;
+  border-radius: 50%;
+}
+
+progress::-webkit-progress-bar {
+  padding: 0px;
+}
+
+progress::-webkit-progress-value {
+  border-radius: 5px;
+  -webkit-transition: all 0s;
+  -moz-transition: all 0s;
+  -o-transition: all 0s;
+  -ms-transition: all 0s;
+  transition: all 0s;
+}
+
+progress::-moz-progress-bar  {
+  padding: 0px;
+  border-radius: 5px;
+  -webkit-transition: all 0s;
+  -moz-transition: all 0s;
+  -o-transition: all 0s;
+  -ms-transition: all 0s;
+  transition: all 0s;
+}
+
+progress  {
+  border-radius: 5px;
+  -webkit-transition: all 0s;
+  -moz-transition: all 0s;
+  -o-transition: all 0s;
+  -ms-transition: all 0s;
+  transition: all 0s;
+}
+
+.nativeDroidProgress {
+  position: fixed;
+  top: 49px;
+  left: 0px;
+  z-index: 99999;
+}
+
+.nativeDroidProgress[data-animation-time="0"]::-webkit-progress-value { -webkit-transition: all 0s !important;  }
+
+.nativeDroidProgress[data-animation-time="0"]::-moz-progress-value {  -moz-transition: all 0s !important; }
+
+.nativeDroidCards {
+  list-style: none;
+  padding: 12px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+  perspective: 500;
+  -webkit-perspective: 500;
+}
+
+.nativeDroidCards > li {
+  padding: 10px;
+  margin: 12px;
+  display: block;
+  opacity: 1;
+  top: 0px;
+  left: -100%;
+  position: relative;
+  -webkit-animation: slideFromLeft 1.5s 1;
+  -webkit-animation-fill-mode: forwards;
+  -moz-animation: slideFromLeft 1.5s 1;
+  -moz-animation-fill-mode: forwards;
+  animation: slideFromLeft 1.5s 1;
+  animation-fill-mode: forwards;
+}
+
+.nativeDroidCards > li:nth-child(even) {
+  -webkit-animation: slideFromRight 1.5s 1;
+  -webkit-animation-fill-mode: forwards;
+  -moz-animation: slideFromRight 1.5s 1;
+  -moz-animation-fill-mode: forwards;
+  animation: slideFromRight 1.5s 1;
+  animation-fill-mode: forwards;
+}
+
+.nativeDroidCards > li:nth-child(1) { -webkit-animation-delay: 0.5s; -moz-animation-delay: 0.5s;  -o-animation-delay: 0.5s; -ms-animation-delay: 0.5s; animation-delay: 0.5s;}
+.nativeDroidCards > li:nth-child(2) { -webkit-animation-delay: 1s;  -moz-animation-delay: 1s;  }
+.nativeDroidCards > li:nth-child(3) { -webkit-animation-delay: 1.5s;  -moz-animation-delay: 1.5s;  }
+.nativeDroidCards > li:nth-child(4) { -webkit-animation-delay: 2.0s;  -moz-animation-delay: 2.0s;  }
+.nativeDroidCards > li:nth-child(5) { -webkit-animation-delay: 2.5s;  -moz-animation-delay: 2.5s;  }
+.nativeDroidCards > li:nth-child(6) { -webkit-animation-delay: 3s;  -moz-animation-delay: 3s;  }
+.nativeDroidCards > li:nth-child(7) { -webkit-animation-delay: 3.5s;  -moz-animation-delay: 3.5s;  }
+.nativeDroidCards > li:nth-child(8) { -webkit-animation-delay: 4s;  -moz-animation-delay: 4s;  }
+.nativeDroidCards > li:nth-child(9) { -webkit-animation-delay: 4.5s;  -moz-animation-delay: 4.5s;  }
+.nativeDroidCards > li:nth-child(10) { -webkit-animation-delay: 5s;  -moz-animation-delay: 5s;  }
+.nativeDroidCards > li:nth-child(11) { -webkit-animation-delay: 5.5s;  -moz-animation-delay: 5.5s;  }
+.nativeDroidCards > li:nth-child(12) { -webkit-animation-delay: 6s;  -moz-animation-delay: 6s;  }
+.nativeDroidCards > li:nth-child(13) { -webkit-animation-delay: 6.5s;  -moz-animation-delay: 6.5s;  }
+.nativeDroidCards > li:nth-child(14) { -webkit-animation-delay: 7s;  -moz-animation-delay: 7.0s;  }
+.nativeDroidCards > li:nth-child(15) { -webkit-animation-delay: 7.5s;  -moz-animation-delay: 7.5s;  }
+
+.nativeDroidCards > li h1 {
+  font-size: 24px;
+  padding: 0px;
+  margin: auto;
+}
+.nativeDroidCards > li h2 {
+  font-size: 14px;
+  padding: 0px;
+  margin: auto;
+}
+
+.nativeDroidCards > li[data-cards-type="sports"] h1 span {
+  display: block;
+  float: right;
+}
+.nativeDroidCards table {
+  margin: 7px 0px 7px 0px;
+  border-spacing:0;
+  border-collapse:collapse;
+  width: 100%;
+}
+
+.nativeDroidCards table td {
+  vertical-align: top;
+  margin: 0px;
+  padding: 3px;
+}
+
+.nativeDroidCards table tr > td:first-child {
+  text-align: right;
+}
+
+.nativeDroidCards a {
+  display: block;
+  padding: 7px 0px 7px 0px;
+  font-size: 18px;
+}
+
+.nativeDroidCards > li[data-cards-type="weather"] ul {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+}
+
+.nativeDroidCards > li[data-cards-type="weather"] ul li {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+}
+
+.nativeDroidCards > li[data-cards-type="weather"] .detail li {
+  display: inline-block;
+}
+.nativeDroidCards > li[data-cards-type="weather"] .detail li:first-child {
+  width: 25%;
+}
+.nativeDroidCards > li[data-cards-type="weather"] .detail li:first-child span {
+  display: block;
+  width: auto;
+}
+.nativeDroidCards > li[data-cards-type="weather"] .detail li:first-child .sunny {
+  font-size: 60px;
+}
+.nativeDroidCards > li[data-cards-type="weather"] .detail li:nth-child(2) {
+  width: 70%;
+  font-size: 115px;
+  text-align: right;
+}
+
+.nativeDroidCards > li[data-cards-type="weather"] .week li strong,.nativeDroidCards > li[data-cards-type="weather"] .week li span,.nativeDroidCards > li[data-cards-type="weather"] .week i {
+  display: block;
+  width: auto;
+}
+
+.nativeDroidCards > li[data-cards-type="weather"] .week li {
+  width: 22%;
+  display: inline-block;
+}
+.nativeDroidCards > li[data-cards-type="weather"] .week li:last-child {
+  border-right: 0px solid rgba(0,0,0,0.05);
+}
+
+.nativeDroidCards > li[data-cards-type="weather"] .sunny {
+  color: #FFF000;
+}
+
+.nativeDroidCards ul[data-nativedroid-plugin="twitter"] li,.nativeDroidCards ul[data-nativedroid-plugin="twitter"] {
+  padding: 0px;
+  margin: 7px 0px 0px 0px;
+}
+
+.nativeDroidCards ul[data-nativedroid-plugin="twitter"] li img {
+  float: left;
+  margin: 7px;
+}
+
+.nativeDroidCards ul[data-nativedroid-plugin="twitter"] a,.nativeDroidCards ul[data-nativedroid-plugin="twitter"] p,.nativeDroidCards ul[data-nativedroid-plugin="twitter"] h2 {
+  font-size: 14px;
+  padding: 0px;
+  margin: 0px;
+  border-top: 0px;
+}
+
+.nativeDroidCards > li .map {
+  margin: 0;
+    padding: 0;
+  width: 100%;
+    height: 150px;
+}
+
+.nativeDroidGallery {
+  list-style: none;
+  margin: auto auto;
+  padding: 0px 0px 0px 0px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.nativeDroidGallery li {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  display: block;
+  float: left;
+  width: 155px;
+  height: 155px;
+  overflow: hidden;
+  margin: 4px 4px 0px 0px;
+  padding: 0px 0px 0px 0px;
+/*  top: 0px;
+  left: -100%;*/
+  position: relative;
+  -webkit-animation: slideImagesIn 1.5s 1;
+  -webkit-animation-fill-mode: forwards;
+  -moz-animation: slideImagesIn 1.5s 1;
+  -moz-animation-fill-mode: forwards;
+  animation: slideImagesIn 1.5s 1;
+  animation-fill-mode: forwards;
+  
+  -webkit-transition: background-image 0.75s linear;
+  -moz-transition: background-image 0.75s linear;
+  -ms-transition: background-image 0.75s linear;
+  -o-transition: background-image 0.75s linear;
+  transition: background-image 0.75s linear;
+  
+}
+
+.nativeDroidGallery li span {
+  display: none;
+}
+
+
+@-webkit-keyframes galleryActivate {  0% { -webkit-transform: scale(1.0,1.0); } 50% { -webkit-transform: scale(0.8,0.8); } 100% { -webkit-transform: scale(1,1); } }
+@-moz-keyframes galleryActivate { 0% { -moz-transform: scale(1,1);  } 50% { -moz-transform: scale(0.8,0.8); } 100% {  -moz-transform: scale(1,1); } }
+@-ms-keyframes galleryActivate {  0% { -ms-transform: scale(1,1); } 50% { -ms-transform: scale(0.8,0.8); } 100% { -ms-transform: scale(1,1); } }
+@-o-keyframes galleryActivate { 0% { -o-transform: scale(1,1);  } 50% { -o-transform: scale(0.8,0.8); } 100% {  -o-transform: scale(1,1); } }
+@keyframes galleryActivate {  0% { transform: scale(1,1); } 50% { transform: scale(0.8,0.8); } 100% { transform: scale(1,1); } }
+
+
+.nativeDroidGallery .overlay {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 99998;
+  background: rgba(0,0,0,0.9);
+  display: none;
+}
+
+.nativeDroidGallery li.active  {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 99999;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+
+  -webkit-animation: galleryActivate 0.5s 1;
+  -moz-animation: galleryActivate 0.5s 1;
+  -o-animation: galleryActivate 0.5s 1;
+  -ms-animation: galleryActivate 0.5s 1;
+  animation: galleryActivate 0.5s 1;
+  animation-fill-mode: forwards;
+
+  -webkit-transition: left 0.4s;
+  -moz-transition: left 0.4s;
+  -ms-transition: left 0.4s;
+  -o-transition: left 0.4s;
+  transition: left 0.4s;
+}
+
+.nativeDroidGallery li.slideLeft {
+  left: -100% !important;
+}
+.nativeDroidGallery li.slideRight {
+  left: 100% !important;
+}
+
+.nativeDroidGallery li .closeTrigger {
+  display: none;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 7px;
+  padding: 7px;
+  opacity: 0.8;
+}
+
+.nativeDroidGallery li.active .closeTrigger {
+  display: block;
+}
+
+.nativeDroidGallery li.active span {
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  background-color: rgba(0,0,0,0.5);
+  padding: 7px;
+}
+
+.nativeDroidGallery li.active.zoom  {
+  overflow: auto;
+  -webkit-overflow-scrolling:touch;
+  -webkit-transform: translate3d(0,0,0);
+}
+
+.nativeDroidGallerySetList {
+
+  -webkit-transition: left 0.4s;
+  -moz-transition: left 0.4s;
+  -ms-transition: left 0.4s;
+  -o-transition: left 0.4s;
+  transition: left 0.4s;
+}
+
+
+.nativeDroidGallerySetList.slideLeft {
+  position: fixed;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  overflow: hidden; 
+}
+
+.nativeDroidGallery li.active.zoom .fullscreenImage {
+  position: absolute;
+}
+
+.nativeDroidGallery li.active.zoom span  {
+  display: none;
+}
+
+.nativeDroidSplashscreen {
+  display: block;
+  background-color: #000000;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 99999;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  overflow: hidden;
+}
+
+@-webkit-keyframes fadeOut { 0% { opacity: 1; } 100% { opacity: 0; } }
+@-moz-keyframes fadeOut { 0% { opacity: 1; } 100% { opacity: 0; } }
+@-o-keyframes fadeOut { 0% { opacity: 1; } 100% { opacity: 0; } }
+@-ms-keyframes fadeOut { 0% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes fadeOut { 0% { opacity: 1; } 100% { opacity: 0; } }
+
+.nativeDroidSplashscreen.fadeOut {
+  -webkit-animation: fadeOut 0.5s 1;
+  -moz-animation: fadeOut 0.5s 1;
+  -o-animation: fadeOut 0.5s 1;
+  -ms-animation: fadeOut 0.5s 1;
+  animation: fadeOut 0.5s 1;
+  -webkit-animation-fill-mode: forwards;
+  -moz-animation-fill-mode: forwards;
+  -o-animation-fill-mode: forwards;
+  -ms-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+}
+
+@-webkit-keyframes moveLeft { 0% { left: 0px; } 100% { left: -100%; } }
+@-moz-keyframes moveLeft { 0% { left: 0px; } 100% { left: -100%; } }
+@-o-keyframes moveLeft { 0% { left: 0px; } 100% { left: -100%; } }
+@-ms-keyframes moveLeft { 0% { left: 0px; } 100% { left: -100%; } }
+@keyframes moveLeft { 0% { left: 0px; } 100% { left: -100%; } }
+
+.nativeDroidSplashscreen.moveLeft {
+  -webkit-animation: moveLeft 0.5s 1;
+  -moz-animation: moveLeft 0.5s 1;
+  -o-animation: moveLeft 0.5s 1;
+  -ms-animation: moveLeft 0.5s 1;
+  animation: moveLeft 0.5s 1;
+  -webkit-animation-fill-mode: forwards;
+  -moz-animation-fill-mode: forwards;
+  -o-animation-fill-mode: forwards;
+  -ms-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+}
+
+@-webkit-keyframes moveRight { 0% { left: 0px; } 100% { left: 100%; } }
+@-moz-keyframes moveRight { 0% { left: 0px; } 100% { left: 100%; } }
+@-o-keyframes moveRight { 0% { left: 0px; } 100% { left: 100%; } }
+@-ms-keyframes moveRight { 0% { left: 0px; } 100% { left: 100%; } }
+@keyframes moveRight { 0% { left: 0px; } 100% { left: 100%; } }
+ 
+.nativeDroidSplashscreen.moveRight { 
+  -webkit-animation: moveRight 0.5s 1;
+  -moz-animation: moveRight 0.5s 1;
+  -o-animation: moveRight 0.5s 1;
+  -ms-animation: moveRight 0.5s 1;
+  animation: moveRight 0.5s 1;
+  -webkit-animation-fill-mode: forwards;
+  -moz-animation-fill-mode: forwards;
+  -o-animation-fill-mode: forwards;
+  -ms-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+}
+
+
+.splashScreenExample {
+  text-align: center;
+}
+
+.splashScreenExample h1,.splashScreenExample h2,.splashScreenExample h3 {
+  
+  -webkit-transform: scale(0.01,0.01);
+  -moz-transform: scale(0.01,0.01);
+  -ms-transform: scale(0.01,0.01);
+  -o-transform: scale(0.01,0.01);
+  transform: scale(0.01,0.01);
+  
+  position: relative;
+  left: 0px;
+  
+  -webkit-animation: galleryActivate 0.5s 1;
+  -moz-animation: galleryActivate 0.5s 1;
+  -o-animation: galleryActivate 0.5s 1;
+  -ms-animation: galleryActivate 0.5s 1;
+  animation: galleryActivate 0.5s 1;
+  -webkit-animation-fill-mode: forwards;
+  -moz-animation-fill-mode: forwards;
+  -o-animation-fill-mode: forwards;
+  -ms-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  
+  -webkit-animation-delay: 0.25s;
+  -moz-animation-delay: 0.25s;
+  -ms-animation-delay: 0.25s;
+  -o-animation-delay: 0.25s;
+  animation-delay: 0.25s;
+}
+
+.splashScreenExample h2 {
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -ms-animation-delay: 0.5s;
+  -o-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+.splashScreenExample h3 {
+  -webkit-animation-delay: 0.75s;
+  -moz-animation-delay: 0.75s;
+  -ms-animation-delay: 0.75s;
+  -o-animation-delay: 0.75s;
+  animation-delay: 0.75s;
+}
+
+
+@-webkit-keyframes moveUp { 0% { top: 100%; } 100% { top:  50%; } }
+@-moz-keyframes moveUp { 0% { top: 100%; } 100% { top:  50%; } }
+@-o-keyframes moveUp { 0% { top: 100%; } 100% { top:  50%; } }
+@-ms-keyframes moveUp { 0% { top: 100%; } 100% { top:  50%; } }
+@keyframes moveUp { 0% { top: 100%; } 100% { top: 50%; } }
+ 
+
+.splashScreenExample .splashScreenDroid {
+  position: fixed;
+  top: 100%;
+  left: 0px;
+  width: 100%;
+  height: 250px;
+  background-image: url("http://nativedroid.godesign.ch/res/img/droid.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: clip;
+    
+  -webkit-animation: moveUp 0.5s 1;
+  -moz-animation: moveUp 0.5s 1;
+  -o-animation: moveUp 0.5s 1;
+  -ms-animation: moveUp 0.5s 1;
+  animation: moveUp 0.5s 1;
+  -webkit-animation-fill-mode: forwards;
+  -moz-animation-fill-mode: forwards;
+  -o-animation-fill-mode: forwards;
+  -ms-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  -ms-animation-delay: 1s;
+  -o-animation-delay: 1s;
+  animation-delay: 1s;
+}
+
+.nativeDroidLockscreen {
+  display: none;
+  background-color: #000000;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 99998;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.nativeDroidLockscreen .unlock {
+  font-size: 25px;
+  padding: 7px;
+  border-radius: 7px;
+  background-color: rgba(0,255,0,0.5);
+}
+
+
+
+.nativeDroidHomescreen,.nativeDroidHomescreen div[data-nativedroid-role="screenslide"] {
+  display: block;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 99997;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  overflow: hidden;
+}
+
+.nativeDroidHomescreen div[data-nativedroid-role="screenslide"] {
+  left: 0px;
+  top: 0px;
+  
+  height: 90%;
+  
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.nativeDroidHomescreen div[data-nativedroid-role="screenslide"].left {
+  left: -100%;
+  -webkit-transform: scale(0.8,0.8);
+  -moz-transform: scale(0.8,0.8);
+  -ms-transform: scale(0.8,0.8);
+  -o-transform: scale(0.8,0.8);
+  transform: scale(0.8,0.8);
+}
+
+.nativeDroidHomescreen div[data-nativedroid-role="screenslide"].leftNoTransition {
+  left: -100%;
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+  transition: none !important;
+}
+
+.nativeDroidHomescreen div[data-nativedroid-role="screenslide"].right {
+  left: 100%;
+  -webkit-transform: scale(0.8,0.8);
+  -moz-transform: scale(0.8,0.8);
+  -ms-transform: scale(0.8,0.8);
+  -o-transform: scale(0.8,0.8);
+  transform: scale(0.8,0.8);
+}
+
+.nativeDroidHomescreen div[data-nativedroid-role="screenslide"].rightNoTransition {
+  left: 100%;
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+  transition: none !important;
+}
+
+.nativeDroidScreenSlideIndicators {
+  position: fixed;
+  bottom: 5%;
+  left: 0px;
+  width: 100%;
+  text-align: center;
+}
+
+.nativeDroidScreenSlideIndicators .blobs {
+  
+  display: inline-block;
+  
+  width: 8px;
+  height: 8px;
+
+  border-top-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  
+  background-color: rgba(255,255,255,0.5);
+  box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.1);
+  
+  margin-right: 10px;
+  
+  -webkit-transition: all 0.25s linear;
+  -moz-transition: all 0.25s linear;
+  -ms-transition: all 0.25s linear;
+  -o-transition: all 0.25s linear;
+  transition: all 0.25s linear;
+}
+
+.nativeDroidScreenSlideIndicators .blobs.active {
+  background-color: rgba(255,255,255,0.8);
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.6);
+
+
+  border-top-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  
+  -webkit-transform: scale(1.5,1.5) rotate(180deg);
+  -moz-transform: scale(1.5,1.5) rotate(180deg);
+  -o-transform: scale(1.5,1.5) rotate(180deg);
+  -ms-transform: scale(1.5,1.5) rotate(180deg);
+  transform: scale(1.5,1.5) rotate(180deg);
+}
+
+.nativeDroidHomescreenWidget {
+  text-align: center;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+  top: 0px;
+  left: 0px;
+  display: inline-block; 
+  position: absolute;
+/*  overflow: hidden;*/
+}
+
+.nativeDroidHomescreenWidget[data-nativedroid-widget-width="1"] { width: 25%; }
+.nativeDroidHomescreenWidget[data-nativedroid-widget-width="2"] { width: 50%; }
+.nativeDroidHomescreenWidget[data-nativedroid-widget-width="3"] { width: 75%; }
+.nativeDroidHomescreenWidget[data-nativedroid-widget-width="4"] { width: 100%; }
+
+.nativeDroidHomescreenWidget[data-nativedroid-widget-height="1"] { height: 20%; }
+.nativeDroidHomescreenWidget[data-nativedroid-widget-height="2"] { height: 40%; }
+.nativeDroidHomescreenWidget[data-nativedroid-widget-height="3"] { height: 60%; }
+.nativeDroidHomescreenWidget[data-nativedroid-widget-height="4"] { height: 80%; }
+.nativeDroidHomescreenWidget[data-nativedroid-widget-height="5"] { height: 100%; }
+
+.nativeDroidHomescreenWidget[data-nativedroid-widget-offset-left="1"] { left: 25%; }
+.nativeDroidHomescreenWidget[data-nativedroid-widget-offset-left="2"] { left: 50%; }
+.nativeDroidHomescreenWidget[data-nativedroid-widget-offset-left="3"] { left: 75%; }
+.nativeDroidHomescreenWidget[data-nativedroid-widget-offset-left="4"] { left: 100%; }
+
+.nativeDroidHomescreenWidget[data-nativedroid-widget-offset-top="1"] { top: 20%; }
+.nativeDroidHomescreenWidget[data-nativedroid-widget-offset-top="2"] { top: 40%; }
+.nativeDroidHomescreenWidget[data-nativedroid-widget-offset-top="3"] { top: 60%; }
+.nativeDroidHomescreenWidget[data-nativedroid-widget-offset-top="4"] { top: 80%; }
+.nativeDroidHomescreenWidget[data-nativedroid-widget-offset-top="5"] { top: 100%; }
+  
+.nativeDroidWidgetClock {
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.8); 
+  margin: auto auto auto auto;
+}
+
+.nativeDroidWidgetClock .ClockTime {
+  margin: 7px;
+}
+
+.nativeDroidWidgetClock .ClockTime .time {
+  font-size: 60px;
+  font-weight: 300;
+  line-height: 65px; 
+  padding: 7px 7px 0px 7px;
+
+  /*-webkit-animation: galleryActivate 0.5s 1;
+  -moz-animation: galleryActivate 0.5s 1;
+  -o-animation: galleryActivate 0.5s 1;
+  -ms-animation: galleryActivate 0.5s 1;
+  animation: galleryActivate 0.5s 1;
+  animation-fill-mode: forwards;*/
+}
+
+.nativeDroidWidgetClock .ClockTime .date {
+  font-size: 14px;
+}
+
+@media (max-height: 324px) {
+  .nativeDroidWidgetClock .ClockTime .time {
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 40px; 
+    padding: 0px 0px 0px 0px;
+  }
+}
+
+.nativeDroidWidgetReader {
+  height: 100%;
+
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  
+  text-align: left;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.8); 
+}
+
+.nativeDroidWidgetReader ul li.widgetTitleBar {
+  background-color: rgba(0,0,0,0.9);
+  box-shadow: 0px 5px 10px rgba(0,0,0,0.3);
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+}
+
+.nativeDroidWidgetReader ul li.widgetTitleBar h3 {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  border-radius: 0px;
+  font-size: 25px;
+
+}
+
+.nativeDroidWidgetReader ul {
+  list-style: none;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 7px 0px 7px;
+  position: relative;
+}
+
+.nativeDroidWidgetReader ul li {
+  border-top: 1px solid rgba(255,255,255,0.1);
+  padding: 7px 14px 7px 14px;
+  background-color: rgba(0,0,0,0.6);
+}
+
+.nativeDroidWidgetReader ul li:nth-child(2) {
+  border-top: 0px;
+}
+
+.nativeDroidWidgetReader ul li strong {
+  display: block;
+  font-weight: 300;
+  font-size: 16px;
+  color: rgba(255,255,255,0.8);
+}
+
+.nativeDroidWidgetReader ul li p {
+  font-size: 12px;
+  color: rgba(255,255,255,0.5);
+}
+
+.nativeDroidWidgetReader ul li .feedActionBox {
+  display: block;
+  float: right;
+  font-size: 25px;
+/*  padding: 15px;
+  border-radius: 50%;
+  background-color: rgba(255,255,0,0.8);*/
+  margin: 0px 0px 0px 7px;
+}
+
+.nativeDroidWidgetReader ul li .feedActionBox a {
+  color: rgba(255,255,255,0.8);
+  font-weight: 300;
+}
+
+.nativeDroidIconWidget {
+  text-align: center;
+  margin: 12px auto;  
+  text-shadow: 1px 1px 5px rgba(0,0,0,0.6);
+
+}
+
+.nativeDroidIconWidget i {
+  font-size: 45px;
+  display: block;
+}
+
+.nativeDroidIconWidget span {
+  font-size: 12px;
+  text-shadow: 2px 2px 2px rgba(0,0,0,0.8);
+}
+
+
+
+.noTransition {
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+  transition: none !important;
+}
+/*dec33 end*/
